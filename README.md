@@ -51,3 +51,17 @@ Set the path as below :
 ```
 export PATH=$PATH:/usr/local/bin/
 ```
+```
+eksctl create cluster --name getting-started-eks \
+--region us-east-2 \
+--version 1.16 \
+--managed \
+--node-type t2.small \
+--nodes 1 \
+--node-volume-size 200 
+```
+
+Cleanup
+```
+eksctl delete cluster --name getting-started-eks
+```
