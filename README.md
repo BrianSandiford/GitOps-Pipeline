@@ -40,4 +40,4 @@ Instructions on installing kubectl can be found [here](https://docs.aws.amazon.c
 
 4. Deploy Cluster with EKS CLI  https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html 
 # Install EKS CTL
-Instructions on installing EKS can be found [here](https://docs.amazonaws.cn/en_us/eks/latest/userguide/eksctl.html)
+Instructions on installing eksctl can be found [here](https://docs.amazonaws.cn/en_us/eks/latest/userguide/eksctl.html)
