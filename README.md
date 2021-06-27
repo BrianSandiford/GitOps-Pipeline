@@ -77,3 +77,4 @@ Instructions on installing Argo CD can be found [here](https://argo-cd.readthedo
 Under step 6. Create An Application From A Git Repository replace example repo https://github.com/argoproj/argocd-example-apps.git with Code repo https://github.com/BrianSandiford/moviesiteapp
 
 Give your app the name moviesite app instead of guestbook
+`kubectl -n argocd get all'` should provide the server name 	`argocd login <ARGOCD_SERVER>`
