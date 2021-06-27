@@ -8,3 +8,7 @@ Instructions on installing Jenkins on AWS EC2 can be found [here](https://github
 Install git plugin on Jenkins.Instructions [here](https://github.com/yankils/Simple-DevOps-Project/blob/master/Jenkins/Git_plugin_install.MD)
 
 Install Docker Pipeline Pluggin in Jenkins.
+
+Install Docker Pipeline Pluggin in Jenkins.
+
+Install CloudBees Docker Build and Publish plugin.
