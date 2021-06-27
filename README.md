@@ -4,4 +4,5 @@ In this project we will build a GitOps Pipeline.The Pipeline has two repos.A Cod
 
 ##  Install Jenkins on AWS EC2
 Instructions on installing Jenkins on AWS EC2 can be found [here](https://github.com/yankils/Simple-DevOps-Project/blob/master/Jenkins/Jenkins_Installation.MD#install-jenkins-on-aws-ec2). 
+
 Install git plugin on Jenkins.Instructions [here](https://github.com/yankils/Simple-DevOps-Project/blob/master/Jenkins/Git_plugin_install.MD)
