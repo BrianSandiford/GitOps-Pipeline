@@ -74,7 +74,8 @@ eksctl delete cluster --name getting-started-eks
 - Define Jenkins Pipeline in SCM.Instructions [here](https://www.jenkins.io/doc/book/pipeline/getting-started/#through-the-classic-ui)
 .
 - In the Jenkinsfile within the **Code** repo the field **git-pass-credentials-ID** needs to be defined as as a Username with password credential in Jenkins `withCredentials([usernameColonPassword(credentialsId: 'git-pass-credentials-ID', variable: 'USERPASS')])'` 
-
+.
+- 'aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 655895384845.dkr.ecr.us-east-2.amazonaws.com' derived from the View push commands tab in the Amazon ECR
 ## Install Argo CD
 Instructions on installing Argo CD can be found [here](https://argo-cd.readthedocs.io/en/stable/getting_started/)
 
