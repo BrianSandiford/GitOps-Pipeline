@@ -78,7 +78,7 @@ Instructions on installing Argo CD can be found [here](https://argo-cd.readthedo
 Under step 6. Create An Application From A Git Repository replace example repo https://github.com/argoproj/argocd-example-apps.git with Code repo 
 https://github.com/BrianSandiford/moviesiteapp-helmcharts.git
 
-Give your app the name moviesite app instead of guestbook
+Give your app the name moviesiteapp instead of guestbook
 
 Change SYNC POLICY to automatic
 
