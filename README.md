@@ -18,4 +18,4 @@ Install CloudBees Docker Build and Publish plugin.
 Install Pipeline pluggin.
 
 ## Install Docker on AWS EC2
-Instructions on installing Docker on AWS EC2 can be found [here](https://github.com/yankils/Simple-DevOps-Project/blob/master/Docker/Docker_Installation_Steps.MD)
+Instructions on installing Docker on AWS EC2 can be found [here](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
