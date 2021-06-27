@@ -40,4 +40,6 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvaila
 3. Install kubectl on EC2 instance 
 Instructions on installing kubectl can be found [here](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
 
-4. Deploy Cluster with EKS CLI  https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
+4. Deploy Cluster with EKS CLI  https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html 
+# Install EKS CTL
+Instructions on installing EKS can be found [here](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
