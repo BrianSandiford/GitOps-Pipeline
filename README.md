@@ -13,8 +13,6 @@ Install git plugin on Jenkins.Instructions [here](https://github.com/yankils/Sim
 
 Install Docker Pipeline Pluggin in Jenkins.
 
-Install Docker Pipeline Pluggin in Jenkins.
-
 Install CloudBees Docker Build and Publish plugin.
 
 Install Pipeline pluggin.
