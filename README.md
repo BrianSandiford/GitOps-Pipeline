@@ -80,5 +80,6 @@ Under step 6. Create An Application From A Git Repository replace example repo h
 Give your app the name moviesite app instead of guestbook
 
 `kubectl -n argocd get all'` should provide the server IP/hostname	`argocd login <ARGOCD_SERVER>`
+
 Server hostname hightlighted in yellow below
 ![argo-server](https://user-images.githubusercontent.com/67350852/123556084-53069900-d757-11eb-9576-b4a9fb278f04.JPG)
