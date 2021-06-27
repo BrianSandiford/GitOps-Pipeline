@@ -14,3 +14,5 @@ Install Docker Pipeline Pluggin in Jenkins.
 Install Docker Pipeline Pluggin in Jenkins.
 
 Install CloudBees Docker Build and Publish plugin.
+
+Install Pipeline pluggin.
