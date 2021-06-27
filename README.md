@@ -70,7 +70,8 @@ Cleanup
 eksctl delete cluster --name getting-started-eks
 ```
 
-##Create a private repository on AWS ECR
+## Create a private repository on AWS ECR
+
 Instructions on how to create a private repository on AWS ECR can be found  [here](https://www.youtube.com/watch?v=vWSRWpOPHws)
 
 ## Define Jenkins Pipeline
