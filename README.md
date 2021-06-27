@@ -81,6 +81,10 @@ Give your app the name moviesite app instead of guestbook
 
 Change SYNC POLICY to automatic
 
+CHECK PRUNE RESOURCES and SELF HEAL check boxes
+![selfheal](https://user-images.githubusercontent.com/67350852/123559741-ed70d780-d76b-11eb-9903-a4025ed3f553.JPG)
+
+
 `kubectl -n argocd get all` should provide the server IP/hostname	`argocd login <ARGOCD_SERVER>`
 
 Server hostname hightlighted in yellow below
