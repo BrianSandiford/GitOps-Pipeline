@@ -20,6 +20,7 @@ Install Pipeline pluggin.
 
 ## Install Docker on AWS EC2
 Instructions on installing Docker on AWS EC2 can be found [here](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
+
 Add your jenkins user to the docker group:
 ``` 
 sudo usermod -aG docker jenkins
@@ -31,6 +32,7 @@ Then restart your jenkins server to refresh the group.
 1. install AWSCLI 
 
 Instructions on installing AWSCLI version 2 can be found [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.htmll)
+
 2. Login to AWS 
 
 ``` 
