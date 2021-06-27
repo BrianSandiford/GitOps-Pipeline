@@ -24,3 +24,4 @@ Instructions on installing Docker on AWS EC2 can be found [here](https://docs.aw
 
 ## Create Kubernetes (K8s) Cluster on AWS
 1. install AWSCLI 
+Instructions on installing AWSCLI version 2 can be found [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.htmll)
