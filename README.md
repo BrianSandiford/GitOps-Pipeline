@@ -44,7 +44,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvaila
 Instructions on installing kubectl can be found [here](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
 
 4. Deploy Cluster with EKS CLI  https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html 
-# Install EKS CTL
+## Install EKS CTL
 Instructions on installing eksctl can be found [here](https://docs.amazonaws.cn/en_us/eks/latest/userguide/eksctl.html)
 
 Set the path as below :
