@@ -36,3 +36,7 @@ Instructions on installing AWSCLI version 2 can be found [here](https://docs.aws
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
 
 ```
+
+3. Install kubectl on EC2 instance 
+Instructions on installing kubectl can be found [here](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+
