@@ -4,7 +4,7 @@ In this project we will build a GitOps Pipeline.The Pipeline has two repos.A Cod
 ![alt text](gitop-pipeline.jpeg)
 
 
-To replicate the movie site app in the code repo you would need an API key from the TheMovieDB site -https://developers.themoviedb.org/3/getting-started/introduction .After you have received the API key use it to generate the Secret.Instructions on how to create a Secret from a config file can be found [here](https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-config-file/).Secret config file stored as secret.yaml in the templates directory of the deployment repo.
+To replicate the movie site app in the code repo you would need an API key from the TheMovieDB site -https://developers.themoviedb.org/3/getting-started/introduction .After you have received the API key use it to generate a Secret in Kubernetes.Instructions on how to create a Secret from a config file can be found [here](https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-config-file/).Secret config file stored as secret.yaml in the templates directory of the deployment repo.
 
 ## Create EC2 instance
 
