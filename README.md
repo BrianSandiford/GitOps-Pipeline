@@ -7,7 +7,7 @@ In this project we will build a GitOps Pipeline.The Pipeline has two repos.A Cod
 To replicate the movie site app in the code repo you would need an API key from the TheMovieDB site -https://developers.themoviedb.org/3/getting-started/introduction .After you have received the API key use it to generate a Secret in Kubernetes.Instructions on how to create a Secret from a config file can be found [here](https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-config-file/).Secret config file stored as secret.yaml in the templates directory of the deployment repo.
 
 A secret will also be need to pull the image from the private registry on Amazon ECR . `aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 655895384845.dkr.ecr.us-east-2.amazonaws.com` would allow you to log into the registry and generate the file /root/.docker/config.json (path may vary).This file contains the authentication to the private registry.
-` cat /root/.docker/config.json  | base64` would generate the base 64 encoded value of the config.json file.This value is used as the value for the key `.dockercfg:` key in the secret1.yaml file in the deployment repo.Instructions on creating Docker config Secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#docker-config-secrets)
+` cat /root/.docker/config.json  | base64` would generate the base 64 encoded value of the config.json file.This value is used as the value for the key `.dockercfg:` in the secret1.yaml file in the deployment repo.Instructions on creating Docker config Secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#docker-config-secrets)
 ## Create EC2 instance
 
 ##  Install Jenkins on AWS EC2
