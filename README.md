@@ -8,6 +8,7 @@ To replicate the movie site app in the code repo you would need an API key from 
 
 A secret will also be needed to pull the image from the private registry on Amazon ECR . `aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 655895384845.dkr.ecr.us-east-2.amazonaws.com` would allow you to log into the registry and generate the file /root/.docker/config.json (path may vary).This file contains the authentication to the private registry.
 ` cat /root/.docker/config.json  | base64` would generate the base 64 encoded value of the config.json file.This value is used as the value for the key `.dockercfg:` in the secret1.yaml file in the deployment repo.Instructions on creating Docker config Secrets [here](https://kubernetes.io/docs/concepts/configuration/secret/#docker-config-secrets)
+
 ## Create EC2 instance
 
 ##  Install Jenkins on AWS EC2
