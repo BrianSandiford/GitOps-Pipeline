@@ -117,3 +117,5 @@ A git push should trigger the build.
 
 ![argocd-gitops](https://user-images.githubusercontent.com/67350852/124676715-0c1e4f00-de8d-11eb-9d24-1be0c68a1015.png)
 
+
+![jenkins-gitops](https://user-images.githubusercontent.com/67350852/124677332-37ee0480-de8e-11eb-8fa9-df2d0a4d7888.JPG)
