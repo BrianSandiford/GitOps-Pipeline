@@ -25,6 +25,9 @@ Install CloudBees Docker Build and Publish plugin.
 Install Pipeline pluggin.
 
 ## Install Docker on AWS EC2
+
+**Note well** must be root user
+
 Instructions on installing Docker on AWS EC2 can be found [here](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
 
 Add your jenkins user to the docker group:
