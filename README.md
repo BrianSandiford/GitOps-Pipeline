@@ -74,6 +74,7 @@ eksctl create cluster --name getting-started-eks \
 --node-volume-size 200 
 ```
 **must run updated version of kubectl** --version 1.22
+
 Cleanup
 ```
 eksctl delete cluster --name getting-started-eks
