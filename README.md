@@ -67,13 +67,13 @@ export PATH=$PATH:/usr/local/bin/
 ```
 eksctl create cluster --name getting-started-eks \
 --region us-east-2 \
---version 1.16 \
+--version 1.22 \
 --managed \
 --node-type t2.small \
 --nodes 1 \
 --node-volume-size 200 
 ```
-
+**must run updated version of kubectl** --version 1.22
 Cleanup
 ```
 eksctl delete cluster --name getting-started-eks
