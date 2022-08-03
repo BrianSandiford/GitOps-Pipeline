@@ -116,7 +116,7 @@ Server hostname hightlighted in yellow below
 ## Webhooks
 Confgure webhook in your github repository. Example [here](https://docs.github.com/en/developers/webhooks-and-events/webhooks/creating-webhooks#setting-up-a-webhook)
 
-### Create a build triiger in Jekins
+### Create a build triger in Jekins
 
 ## Finally
 A git push should trigger the build.
