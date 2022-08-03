@@ -118,6 +118,11 @@ Confgure webhook in your github repository. Example [here](https://docs.github.c
 
 ### Create a build triger in Jekins
 
+Select pipeline
+
+![pipline-jenkins](https://user-images.githubusercontent.com/67350852/182642105-56d1ce96-61b2-4b99-a070-5e004e92a335.JPG)
+
+
 ## Finally
 A git push should trigger the build.
 
