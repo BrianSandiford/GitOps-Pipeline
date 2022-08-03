@@ -122,6 +122,9 @@ Select pipeline
 
 ![pipline-jenkins](https://user-images.githubusercontent.com/67350852/182642105-56d1ce96-61b2-4b99-a070-5e004e92a335.JPG)
 
+Select configure
+![pipeline-configure](https://user-images.githubusercontent.com/67350852/182642828-46762d32-3501-4abb-86f4-c9884a920338.JPG)
+
 
 ## Finally
 A git push should trigger the build.
