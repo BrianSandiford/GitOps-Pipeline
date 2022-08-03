@@ -69,7 +69,7 @@ eksctl create cluster --name getting-started-eks \
 --region us-east-2 \
 --version 1.22 \
 --managed \
---node-type t2.small \
+--node-type t2.medium \
 --nodes 1 \
 --node-volume-size 200 
 ```
