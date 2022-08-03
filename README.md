@@ -126,6 +126,10 @@ Select configure
 
 ![pipeline-configure](https://user-images.githubusercontent.com/67350852/182642828-46762d32-3501-4abb-86f4-c9884a920338.JPG)
 
+Select build triggers and tick check box "GitHub hook trigger for GITScm polling"
+
+![image](https://user-images.githubusercontent.com/67350852/182643668-addf3a60-a035-4d8b-b21e-8a0aba556547.png)
+
 
 ## Finally
 A git push should trigger the build.
