@@ -130,6 +130,10 @@ Select build triggers and tick check box "GitHub hook trigger for GITScm polling
 
 ![image](https://user-images.githubusercontent.com/67350852/182643668-addf3a60-a035-4d8b-b21e-8a0aba556547.png)
 
+Under Pipeline Select Pipeline script from SCM ,Git and enter Pipeline script from SCM and enter Repository URL as shown below
+
+![image](https://user-images.githubusercontent.com/67350852/182644935-82c39e5f-6315-417a-ac6a-53c70a480723.png)
+
 
 ## Finally
 A git push should trigger the build.
