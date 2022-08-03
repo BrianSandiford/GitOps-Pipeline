@@ -114,7 +114,7 @@ Server hostname hightlighted in yellow below
 ![argo-server](https://user-images.githubusercontent.com/67350852/123556084-53069900-d757-11eb-9576-b4a9fb278f04.JPG)
 
 ## Webhooks
-Confgure webhook in your repository. Example [here](https://docs.github.com/en/developers/webhooks-and-events/creating-webhooks)
+Confgure webhook in your repository. Example [here](https://docs.github.com/en/developers/webhooks-and-events/webhooks/creating-webhooks#setting-up-a-webhook)
 
 ## Finally
 A git push should trigger the build.
