@@ -140,7 +140,7 @@ As you can no longer authenticate to github with a password SSH keys are used wh
 
 Jenkins must be up and running and Credentials plug-in installed in Jenkins
 
-Create SSH keys in your Jenkins EC2 instance 'ssh-keygen'
+Create SSH keys in your Jenkins EC2 instance `ssh-keygen`
 
 ## Finally
 A git push should trigger the build.
