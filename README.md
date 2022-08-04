@@ -136,7 +136,9 @@ Under Pipeline Select Pipeline script from SCM ,Git and enter Repository URL as 
 
 ## SSH integration between Jenkins and GitHub
 
-As you can no longer authenticate to github with a password SSH keys are needed whenever you push to your git repo.
+As you can no longer authenticate to github with a password SSH keys are used whenever you push to your git repo.
+
+Jenkins must be up and running and Credentials plug-in installed in Jenkins
 
 ## Finally
 A git push should trigger the build.
