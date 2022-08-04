@@ -142,6 +142,8 @@ Jenkins must be up and running and Credentials plug-in installed in Jenkins
 
 Create SSH keys in your Jenkins EC2 instance `ssh-keygen`
 
+`sudo cat ~/.ssh/id_rsa.pub` then copy public key.Paste key into your git repo
+
 ## Finally
 A git push should trigger the build.
 
