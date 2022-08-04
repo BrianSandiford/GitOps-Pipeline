@@ -134,6 +134,7 @@ Under Pipeline Select Pipeline script from SCM ,Git and enter Repository URL as 
 
 ![image](https://user-images.githubusercontent.com/67350852/182644935-82c39e5f-6315-417a-ac6a-53c70a480723.png)
 
+## SSH integration between Jenkins and GitHub
 
 ## Finally
 A git push should trigger the build.
