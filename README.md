@@ -150,7 +150,8 @@ Add public keys into the --> settings--> Deploy keys section of the https://gith
 
 **Note well** Allow write access must be ticked
 
-![deploy-keys2](https://user-images.githubusercontent.com/67350852/182870949-6946ca1a-12e1-4ddd-a5ef-f00a9d484118.JPG)
+
+![deploy-keys3](https://user-images.githubusercontent.com/67350852/182871170-81c0215b-8ab9-470b-be22-6b4b2cbb842d.JPG)
 
 
 Click on Add Deploy Key ,enter public keys and save.
