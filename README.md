@@ -144,7 +144,7 @@ Create SSH keys in your Jenkins EC2 instance `ssh-keygen`
 
 `sudo cat ~/.ssh/id_rsa.pub` then copy public key.Paste key into your git repo
 
-Add public keys into the --> settings--> Deploy keys section of the [https://github.com/BrianSandiford/moviesiteapp](https://github.com/BrianSandiford/moviesiteapp-helmcharts.git) repo
+Add public keys into the --> settings--> Deploy keys section of the https://github.com/BrianSandiford/moviesiteapp-helmcharts.git repo
 
 ![deploy-keys1](https://user-images.githubusercontent.com/67350852/182867139-027fa8a8-f3c5-4b6c-b450-014206540974.JPG)
 
