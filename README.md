@@ -164,6 +164,8 @@ Login Jenkins. Click on Manage Jenkins then click on Manage Credentials
 
 ![jenkins-ssh1](https://user-images.githubusercontent.com/67350852/183105820-1b29a658-c785-451f-b9a9-7d89bec909a2.JPG)
 
+![jenkins-ssh2](https://user-images.githubusercontent.com/67350852/183106480-8b22afa7-8bf2-4047-a518-809f561bd4ed.JPG)
+
 
 ## Finally
 A git push should trigger the build.
