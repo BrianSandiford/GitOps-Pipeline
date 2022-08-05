@@ -160,6 +160,11 @@ Click on Add Deploy Key ,enter public keys and save.
 
 Add **private key** to jenkins. Instructions can be found [here](https://www.jenkins.io/doc/book/using/using-credentials/)
 
+Login Jenkins. Click on Manage Jenkins then click on Manage Credentials
+
+![jenkins-ssh1](https://user-images.githubusercontent.com/67350852/183105820-1b29a658-c785-451f-b9a9-7d89bec909a2.JPG)
+
+
 ## Finally
 A git push should trigger the build.
 
