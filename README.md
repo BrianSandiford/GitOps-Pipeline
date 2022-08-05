@@ -178,6 +178,11 @@ Choose SSH username with private key.Username can be anything
 
 ![image](https://user-images.githubusercontent.com/67350852/183110152-7cd2b452-44ab-4bcb-87b5-a82191699370.png)
 
+Click on enter directly under private key option and Click Add.Copy and paste ** private key(not public key)** of your from Jenkins instance.Click OK to save.
+
+![image](https://user-images.githubusercontent.com/67350852/183122647-c017b766-a059-4010-b26a-512eb198597b.png)
+
+
 
 
 
