@@ -174,6 +174,10 @@ Click on Jenkins click on Global Credentials then click on Add Credentials
 
 ![image](https://user-images.githubusercontent.com/67350852/183109391-2ad37653-ded0-4f5f-80e8-d41493a5b50f.png)
 
+Choose SSH username with private key.Username can be anything
+
+![image](https://user-images.githubusercontent.com/67350852/183110152-7cd2b452-44ab-4bcb-87b5-a82191699370.png)
+
 
 
 
